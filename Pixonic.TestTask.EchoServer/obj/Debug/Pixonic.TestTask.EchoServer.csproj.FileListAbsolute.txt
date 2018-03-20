@@ -1,0 +1,18 @@
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer\obj\Debug\Pixonic.TestTask.EchoServer.csprojResolveAssemblyReference.cache
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer\obj\Debug\Pixonic.TestTask.EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer\bin\Debug\Pixonic.TestTask.EchoServer.exe.config
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer\bin\Debug\Pixonic.TestTask.EchoServer.exe
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer\bin\Debug\Pixonic.TestTask.EchoServer.pdb
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer\bin\Debug\Pixonic.TestTask.DataContracts.dll
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer\bin\Debug\Pixonic.TestTask.DataContracts.pdb
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer\obj\Debug\Pixonic.TestTask.EchoServer.exe
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer\obj\Debug\Pixonic.TestTask.EchoServer.pdb
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer\bin\Debug\Pixonic.TestTask.EchoServer.exe.config
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer\bin\Debug\Pixonic.TestTask.EchoServer.exe
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer\bin\Debug\Pixonic.TestTask.EchoServer.pdb
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer\bin\Debug\Pixonic.TestTask.DataContracts.dll
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer\bin\Debug\Pixonic.TestTask.DataContracts.pdb
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer\obj\Debug\Pixonic.TestTask.EchoServer.csprojResolveAssemblyReference.cache
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer\obj\Debug\Pixonic.TestTask.EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer\obj\Debug\Pixonic.TestTask.EchoServer.exe
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer\obj\Debug\Pixonic.TestTask.EchoServer.pdb

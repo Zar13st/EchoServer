@@ -1,0 +1,11 @@
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.DataContracts\bin\Debug\Pixonic.TestTask.DataContracts.dll
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.DataContracts\bin\Debug\Pixonic.TestTask.DataContracts.pdb
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.DataContracts\obj\Debug\Pixonic.TestTask.DataContracts.csproj.CoreCompileInputs.cache
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.DataContracts\obj\Debug\Pixonic.TestTask.DataContracts.dll
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.DataContracts\obj\Debug\Pixonic.TestTask.DataContracts.pdb
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.DataContracts\bin\Debug\Pixonic.TestTask.DataContracts.dll
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.DataContracts\bin\Debug\Pixonic.TestTask.DataContracts.pdb
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.DataContracts\obj\Debug\Pixonic.TestTask.DataContracts.csprojResolveAssemblyReference.cache
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.DataContracts\obj\Debug\Pixonic.TestTask.DataContracts.csproj.CoreCompileInputs.cache
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.DataContracts\obj\Debug\Pixonic.TestTask.DataContracts.dll
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.DataContracts\obj\Debug\Pixonic.TestTask.DataContracts.pdb

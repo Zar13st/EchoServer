@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixonic.TestTask.EchoServer", "Pixonic.TestTask.EchoServer\Pixonic.TestTask.EchoServer.csproj", "{05E47C4B-0366-4B3A-A415-7A2A16678D43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixonic.TestTask.Client", "Pixonic.TestTask.Client\Pixonic.TestTask.Client.csproj", "{442F9129-9915-4E1D-BB3B-868F22D45952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixonic.TestTask.DataContracts", "Pixonic.TestTask.DataContracts\Pixonic.TestTask.DataContracts.csproj", "{5440C110-2E0E-4718-9140-DBA2CE12465B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05E47C4B-0366-4B3A-A415-7A2A16678D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E47C4B-0366-4B3A-A415-7A2A16678D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E47C4B-0366-4B3A-A415-7A2A16678D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E47C4B-0366-4B3A-A415-7A2A16678D43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{442F9129-9915-4E1D-BB3B-868F22D45952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442F9129-9915-4E1D-BB3B-868F22D45952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442F9129-9915-4E1D-BB3B-868F22D45952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442F9129-9915-4E1D-BB3B-868F22D45952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5440C110-2E0E-4718-9140-DBA2CE12465B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5440C110-2E0E-4718-9140-DBA2CE12465B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5440C110-2E0E-4718-9140-DBA2CE12465B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5440C110-2E0E-4718-9140-DBA2CE12465B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {788083D3-8BFF-45F4-ABAD-2E7CA547117B}
+	EndGlobalSection
+EndGlobal

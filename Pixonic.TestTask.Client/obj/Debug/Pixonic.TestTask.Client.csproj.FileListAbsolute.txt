@@ -1,0 +1,18 @@
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.Client\bin\Debug\Pixonic.TestTask.Client.exe.config
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.Client\bin\Debug\Pixonic.TestTask.Client.exe
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.Client\bin\Debug\Pixonic.TestTask.Client.pdb
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.Client\bin\Debug\Pixonic.TestTask.DataContracts.dll
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.Client\bin\Debug\Pixonic.TestTask.DataContracts.pdb
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.Client\obj\Debug\Pixonic.TestTask.Client.csprojResolveAssemblyReference.cache
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.Client\obj\Debug\Pixonic.TestTask.Client.csproj.CoreCompileInputs.cache
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.Client\obj\Debug\Pixonic.TestTask.Client.exe
+C:\Users\3ap\Documents\Visual Studio 2017\Projects\Pixonic.TestTask.EchoServer\Pixonic.TestTask.Client\obj\Debug\Pixonic.TestTask.Client.pdb
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.Client\bin\Debug\Pixonic.TestTask.Client.exe.config
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.Client\bin\Debug\Pixonic.TestTask.Client.exe
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.Client\bin\Debug\Pixonic.TestTask.Client.pdb
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.Client\bin\Debug\Pixonic.TestTask.DataContracts.dll
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.Client\bin\Debug\Pixonic.TestTask.DataContracts.pdb
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.Client\obj\Debug\Pixonic.TestTask.Client.csprojResolveAssemblyReference.cache
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.Client\obj\Debug\Pixonic.TestTask.Client.csproj.CoreCompileInputs.cache
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.Client\obj\Debug\Pixonic.TestTask.Client.exe
+C:\Users\limae\Desktop\Pixonic.TestTask.EchoServer\Pixonic.TestTask.Client\obj\Debug\Pixonic.TestTask.Client.pdb
